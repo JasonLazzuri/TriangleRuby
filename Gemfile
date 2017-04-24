@@ -1,3 +1,6 @@
 source('http://rubygems.org')
 
-require('rspec')
+gem('rspec')
+gem('sinatra')
+gem('sinatra-contrib')
+gem('capybara')
